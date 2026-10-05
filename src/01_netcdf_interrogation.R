@@ -1,9 +1,18 @@
 # 1. Setup
 
-# Load terra for working with raster and gridded spatial data.
-library(terra)
+# Install required packages if they are not already available.
+required_packages <- c("terra", "ncdf4")
 
-# Load ncdf4 so we can inspect the internal structure of the NetCDF file.
+missing_packages <- required_packages[
+  !required_packages %in% rownames(installed.packages())
+]
+
+if (length(missing_packages) > 0) {
+  install.packages(missing_packages)
+}
+
+# Load the packages needed for the demonstration.
+library(terra)
 library(ncdf4)
 
 # Create a local data folder if it does not already exist.
