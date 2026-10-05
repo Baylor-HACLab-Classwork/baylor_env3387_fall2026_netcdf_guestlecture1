@@ -1,0 +1,27 @@
+{
+    "id": "AA1D9237",
+    "path": "/data/haclab_shared/users/seamone/git/personal/baylor_env3387_fall2026_netcdf_guestlecture1/src/01_netcdf_interrogation.R",
+    "project_path": "src/01_netcdf_interrogation.R",
+    "type": "r_source",
+    "hash": "490016704",
+    "contents": "",
+    "dirty": false,
+    "created": 1791081214279.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "85,0",
+        "scrollLine": "81"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1791223057,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1791223057039,
+    "read_only": false,
+    "read_only_alternatives": []
+}

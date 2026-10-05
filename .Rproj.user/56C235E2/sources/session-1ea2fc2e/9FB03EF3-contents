@@ -1,0 +1,14 @@
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+*.zip
+*.SAFE/
+*.jp2
+*.tif
+
+data/
+raw/
+derived/
+distribution/

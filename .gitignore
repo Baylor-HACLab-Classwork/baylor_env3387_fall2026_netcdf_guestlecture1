@@ -1,0 +1,5 @@
+data/*.nc
+data/*.nc
+echo ".Rproj.user/" >> .gitignore
+.Rproj.user/
+.Rhistory
